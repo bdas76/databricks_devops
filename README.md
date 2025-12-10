@@ -1,3 +1,2 @@
-# databricks_devops
-
-This a code for Biswajit Das DataBrick DevOps 
+# Databricks DevOps Training
+My first push and commit.
